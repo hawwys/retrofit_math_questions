@@ -1,0 +1,20 @@
+{
+  "appName":"Quiz",
+  "questions":[
+    {
+      "text":"Which number is natural?",
+      "answers":["-20", "12", "1.2"],
+      "correctAnswer":1
+    },
+    {
+      "text":"Which number is primary?",
+      "answers":["17", "18", "20"],
+      "correctAnswer":0
+    },
+    {
+      "text":"2 + 2 * 2 is?",
+      "answers":["4", "8", "6"],
+      "correctAnswer":2
+    }
+  ]
+}
