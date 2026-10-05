@@ -1,5 +1,4 @@
-{
-  "questions":[
+[
     {
       "text":"Which number is natural?",
       "answers":["-20", "12", "1.2"],
@@ -15,5 +14,4 @@
       "answers":["4", "8", "6"],
       "correctAnswer":2
     }
-  ]
-}
+]
